@@ -1,11 +1,9 @@
-
+import React from 'react';
 import './App.css';
 
 function App() {
   return (
-    <div>
-      
-    </div>
+    <h1>NX Traval</h1>
   );
 }
 
