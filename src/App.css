@@ -12,9 +12,9 @@
   --PrimaryColot:hsl(199,100%,33%);
   --SecondaryColor:hsl(187,85%,43%);
   --gradientColor:linear-gradient(to right, hsl(187,85%,43%),hsl(199,100%,33%));
-  --whiteColor:hsl(0%,0%,100%);
+  --whiteColor: hsl(0,0%,100%);
   --blackColor:hsl(201,33%,16%);
-  --extColor:hsl(240,4%,36%);
+  --textColor:hsl(240,4%,36%);
   --whiteColorDeam:hsl(0,0%,93%);
   --graytext:rgb(190,190,190);
   --inputColor:rgb(239,239,239);
@@ -40,7 +40,7 @@ li{
 }
 
 .icon{
-  font-size: 2rem;
+  font-size:  2rem;
   cursor:pointer;
 }
 
