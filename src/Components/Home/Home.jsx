@@ -9,6 +9,9 @@ import { FaTripadvisor } from "react-icons/fa";
 import { FaListUl } from "react-icons/fa6";
 import { TbAppsFilled } from "react-icons/tb";
 
+import Aos from 'aos';
+import 'aos/dist/aos.css';
+
 const Home = () => {
   return (
     <section className='home'>
